@@ -4,7 +4,7 @@ I. INTRO:
 
   1. 99 Shots Site: https://99shots.netlify.app/
 
-  2. This is an App to pull an Alcoholic Drink at Random, App then displays the following for the User:
+  2. This is an App to pull an Alcoholic Drink at Random, App then displays:
 
      a. Image of Drink.
   
