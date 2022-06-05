@@ -1,9 +1,21 @@
-# Shots-with-the-Bartender
+# Shots with the Bartender
+
+I. INTRO:
+
 99 Shots Site: https://99shots.netlify.app/
 
-This is a Liquor App built for a small Bar near my City. Licensed for 12 months use, just to see viability of selling more Licenses to other Bars in the future.
-Proved to be popular with the Bartenders as it offered a diverse amount of Cocktails that they can make to surprise their Clients!
+This is an App that pulls an Alcoholic Drink at Random.
 
-In future versions, I want to customize the Query Parameters to pull up a specific Drink when inputted within a Search Box.
+II. NOTES: 
 
-Built with HTML/CSS/JS/API - This app allowed me to diversiy my Freelancing scope!
+  1. Built with HTML/CSS/JS/API.
+  2. Cocktail DB API: https://www.thecocktaildb.com/api.php
+  3. As a Freelance Website and Web App Developer, I was able to license this App to a Bar for 12 months use.
+
+III. OPTIMIZATION: 
+
+  1. Add a User Input for custom query parameters, so that a User can search for specific Alcoholic or Non-Alcoholic Drinks.
+  2. Modify JS function for Loop to improve Ingredients List Layout. 
+  3. Add a Form so that User can create Credentials.
+  4. Add Save Function so that User can save Drinks.
+  5. Link with Server to keep and serve User and Drink info.
