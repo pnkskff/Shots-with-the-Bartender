@@ -1,7 +1,5 @@
 # Shots with the Bartender
 
-Readme last updated on: JUNE 2022
-
 I. INTRO:
 
   1. 99 Shots Site: https://99shots.netlify.app/
@@ -33,3 +31,9 @@ III. OPTIMIZATION:
   4. Add Save Function so that User can save Drinks.
   
   5. Link with Server to keep and serve User and Drink info.
+
+IV: FURTHER INFO:
+
+Readme last updated on: JUNE 2022
+Authors:
+https://github.com/pnkskff
