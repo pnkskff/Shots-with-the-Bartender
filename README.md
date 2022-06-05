@@ -1,6 +1,6 @@
 # Shots with the Bartender
 
-JUNE 2022
+Readme last updated on: JUNE 2022
 
 I. INTRO:
 
