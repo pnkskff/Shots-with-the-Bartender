@@ -38,4 +38,8 @@ IV: FURTHER INFO:
 
   2. Authors:
 
+     a. pnkskff
      https://github.com/pnkskff
+     https://drincapdev.netlify.app/
+     https://drincapapps.netlify.app/
+     
