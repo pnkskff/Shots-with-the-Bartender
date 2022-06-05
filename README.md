@@ -34,8 +34,8 @@ III. OPTIMIZATION:
 
 IV: FURTHER INFO:
 
-Readme last updated on: JUNE 2022
+  1. Readme last updated on: JUNE 2022
 
-Authors:
+  2. Authors:
 
-https://github.com/pnkskff
+     https://github.com/pnkskff
