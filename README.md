@@ -1,5 +1,7 @@
 # Shots with the Bartender
 
+JUNE 2022
+
 I. INTRO:
 
   1. 99 Shots Site: https://99shots.netlify.app/
